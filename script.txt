@@ -1,0 +1,1 @@
+/tool fetch url="http://ydns.eu/api/v1/update/?host=mssip.ydns.eu" mode=http user="USERNAME" password="API_PASSWORD"
